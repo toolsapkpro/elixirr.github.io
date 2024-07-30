@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from elixirnet.ng/signin by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Jul 2024 09:57:59 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <title>Elixir</title>
+    <meta name="keywords" content="peer-to-peer, make money online, money, online website, make money online website, marketting, affiliate marketting" />
+    <meta name="description" content="Elixir">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+    <link rel="shortcut icon" href="images/general/a8e0293ee5b26bc9f3a01834701674021747ad68-pwXuk.png">
+
+    <!-- Vendors Style-->
+    <link rel="stylesheet" href="user/css/vendors_css.css">
+    <!-- Style-->
+    <link rel="stylesheet" href="user/css/style.css">
+    <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.1/mdb.min.css" />
+    <link rel="stylesheet" href="user/css/custom.css">
+    <link href='../unpkg.com/boxicons%402.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body class="hold-transition theme-primary"
+    style="background-image:url(abstrak/media/banner/e-bg.jpg); background-size: cover;">
+
+    <div class="container h-p100">
+        <div class="row align-items-center justify-content-md-center h-p100">
+            <div class="col-12">
+                <div class="row justify-content-center g-0">
+                    <div class="col-lg-5 col-md-5 col-12">
+                        <div class="content-top-agile p-20 pb-0">
+                            <a href="index.html">
+                                <img src="images/general/70cac6bbbe14cba71d3a9e2b89573675a76e73e7-ab3hC.png" width="100" alt="logo">
+                            </a>
+                            <h2 class="text-light">Welcome Back!</h2>
+                        </div>
+
+                        <div class="p-40">
+                            <form class="form-horizontal form-element col-12" action="https://elixirnet.ng/signin"
+                                method="post">
+                                <input type="hidden" name="_token" value="Rtyo9SAfDNhaeoLYR8JTn1ZDGwvBPAijZzCZhcLL">                                <input type="hidden" id="isWebView" name="isWebView" value="false">
+                                <div class="form-group row">
+                                    <div class="col-sm-12">
+                                        <label for="id" class="col-sm-2 form-label text-light">Login ID</label>
+                                        <input type="text" class="form-control" id="id" required
+                                            placeholder="Username/Email" name="id" autocomplete="off"
+                                            autocorrect="off">
+                                    </div>
+                                </div>
+
+                                <div class="form-group row">
+                                    <div class="col-sm-12">
+                                        <label for="password" class="col-sm-2 form-label text-light">Password</label>
+                                        <input type="password" class="form-control " id="password" required
+                                            placeholder="Your Password" name="password" autocomplete="off"
+                                            autocorrect="off">
+                                    </div>
+                                </div>
+
+                                <div class="row g-4">
+                                    <div class="col-12">
+                                        <div class="text-end">
+                                            <a href="account/help/reset-password.html" class="text-info"><i
+                                                    class='bx bxs-key'></i> Forgot password?</a><br>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <button type="submit" class="btn-custom w-p100 rounded-1">LOG IN</button>
+                                    </div>
+                                </div>
+                            </form>
+                                                        <div class="text-center">
+                                <p class="mt-15 mb-0 text-light">Don't have an account? <a href="signup.html"
+                                        class="text-info">Sign Up</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="user/js/vendors.min.js"></script>
+        <link rel="stylesheet" href="vendor/iziToast/iziToast.min.css">
+<script src="vendor/iziToast/iziToast.min.js"></script>
+
+
+<script>
+    'use strict';
+
+    function notify(status, message) {
+        iziToast[status]({
+            message: message,
+            position: "center"
+        });
+    }
+</script>
+</body>
+
+
+<!-- Mirrored from elixirnet.ng/signin by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Jul 2024 09:57:59 GMT -->
+</html>
